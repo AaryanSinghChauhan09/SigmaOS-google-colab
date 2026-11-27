@@ -11,3 +11,10 @@ sigmaos-google-colab --help
 
 ## License
 GPL-3.0-or-later
+
+## See Also
+
+Related SigmaOS **notebooks** repositories:
+
+- [SigmaOS-jupyter](../SigmaOS-jupyter/README.md) — Jupyter kernel and session management for SigmaOS
+- [SigmaOS-knime](../SigmaOS-knime/README.md) — KNIME visual analytics workflow integration for SigmaOS
