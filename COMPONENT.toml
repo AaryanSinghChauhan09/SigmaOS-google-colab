@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-google-colab"
+version = "0.1.0"
+category = "notebooks"
+description = "Colab-compatible cloud notebook runtime bridge for SigmaOS"
